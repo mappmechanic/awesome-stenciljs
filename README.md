@@ -17,7 +17,8 @@ An Awesome Talk to Know more about #StencilJS
 ## List of Awesome Components Made using StencilJS
 
 - [Stencil Payment](https://github.com/Fdom92/stencil-payment#): A Web Component which allows any web app to use the Payment Request API
-- [Web Share](https://github.com/jgw96/web-share): A Web Component that makes it super easy to use the [web share api](https://developers.google.com/web/updates/2016/09/navigator-share).
-- [ST Image](https://github.com/jgw96/st-img): A Web Component to Lazy Load Images as user scrolls them into the view port.
+- [Web Share](https://github.com/jgw96/web-share): WC that makes it super easy to use the [web share api](https://developers.google.com/web/updates/2016/09/navigator-share).
+- [ST Image](https://github.com/jgw96/st-img): WC to Lazy Load Images as user scrolls them into the view port.
+- [ST Muse](https://github.com/gilf/st-muse): WC to that connects into [Muse](http://www.choosemuse.com/) device using [muse.js](https://github.com/urish/muse-js).
 
 Please feel free to add any component to this list by raising a PR.
