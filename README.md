@@ -21,4 +21,9 @@ An Awesome Talk to Know more about #StencilJS
 - [ST Image](https://github.com/jgw96/st-img): WC to Lazy Load Images as user scrolls them into the view port.
 - [ST Muse](https://github.com/gilf/st-muse): WC to that connects into [Muse](http://www.choosemuse.com/) device using [muse.js](https://github.com/urish/muse-js).
 
+## IDE Specific Stencil Plugins/Snippets
+
+### Visual Studio Code
+- [Stencil Snippets](https://github.com/Fdom92/stencil-snippets) - Stencil Snippets like st-component(generate component), st-prop(add new prop), st-event (add new @Event) etc.
+
 Please feel free to add any component to this list by raising a PR.
