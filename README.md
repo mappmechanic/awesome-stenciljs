@@ -26,6 +26,7 @@ An Awesome Talk to Know more about #StencilJS
 - [ST Image](https://github.com/jgw96/st-img): WC to Lazy Load Images as user scrolls them into the view port.
 - [ST Muse](https://github.com/gilf/st-muse): WC to that connects into [Muse](http://www.choosemuse.com/) device using [muse.js](https://github.com/urish/muse-js).
 - [FWT Slider](https://github.com/seveves/angular-stencil): Slider Stencil Component demonstrated to work with Angular or any other framework
+- [ST Fetch](https://github.com/Fdom92/stencil-fetch): WC To make a Fetch API call to the backend.
 
 ## Awesome IDE Specific Stencil Plugins/Snippets
 
