@@ -23,7 +23,7 @@ An Awesome Talk to Know more about #StencilJS
 - [Web Share](https://github.com/jgw96/web-share): WC that makes it super easy to use the [web share api](https://developers.google.com/web/updates/2016/09/navigator-share).
 - [ST Image](https://github.com/jgw96/st-img): WC to Lazy Load Images as user scrolls them into the view port.
 - [ST Muse](https://github.com/gilf/st-muse): WC to that connects into [Muse](http://www.choosemuse.com/) device using [muse.js](https://github.com/urish/muse-js).
-- [ST Slider](https://github.com/seveves/angular-stencil): Slider Stencil Component demonstrated to work with Angular or any other framework
+- [FWT Slider](https://github.com/seveves/angular-stencil): Slider Stencil Component demonstrated to work with Angular or any other framework
 
 ## Awesome IDE Specific Stencil Plugins/Snippets
 
