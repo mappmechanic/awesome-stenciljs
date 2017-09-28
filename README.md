@@ -1,7 +1,9 @@
 # Awesome StencilJS
 
 [Awesome Stencil Components](https://github.com/mappmechanic/awesome-stenciljs#list-of-awesome-components-made-using-stenciljs)
+
 [Awesome IDE Plugins](https://github.com/mappmechanic/awesome-stenciljs#awesome-ide-specific-stencil-pluginssnippets)
+
 [Awesome Stencil Articles](https://github.com/mappmechanic/awesome-stenciljs#awesome-articles-related)
 
 
