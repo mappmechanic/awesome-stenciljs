@@ -27,6 +27,7 @@ An Awesome Talk to Know more about #StencilJS
 - [ST Muse](https://github.com/gilf/st-muse): WC to that connects into [Muse](http://www.choosemuse.com/) device using [muse.js](https://github.com/urish/muse-js).
 - [FWT Slider](https://github.com/seveves/angular-stencil): Slider Stencil Component demonstrated to work with Angular or any other framework
 - [ST Fetch](https://github.com/Fdom92/stencil-fetch): WC To make a Fetch API call to the backend.
+- [Video Player](https://github.com/CookieCookson/stencil-video-player): WC for rendering an ioperable video player with controls and full screen mode too.
 
 ## Awesome IDE Specific Stencil Plugins/Snippets
 
