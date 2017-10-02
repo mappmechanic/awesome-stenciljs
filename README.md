@@ -28,6 +28,7 @@ An Awesome Talk to Know more about #StencilJS
 - [FWT Slider](https://github.com/seveves/angular-stencil): Slider Stencil Component demonstrated to work with Angular or any other framework
 - [ST Fetch](https://github.com/Fdom92/stencil-fetch): WC To make a Fetch API call to the backend.
 - [Video Player](https://github.com/CookieCookson/stencil-video-player): WC for rendering an ioperable video player with controls and full screen mode too.
+- [Stencil Components](https://github.com/CodeDimension/stencil-components): Web UI components built on top on StencilJS
 
 ## Awesome IDE Specific Stencil Plugins/Snippets
 
