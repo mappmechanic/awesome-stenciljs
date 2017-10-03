@@ -30,6 +30,8 @@ An Awesome Talk to Know more about #StencilJS
 - [Video Player](https://github.com/CookieCookson/stencil-video-player): WC for rendering an ioperable video player with controls and full screen mode too.
 - [Stencil Components](https://github.com/CodeDimension/stencil-components): Web UI components built on top of StencilJS
 - [Stencil Mobx](https://github.com/aaronksaunders/stencil-mobx): Manage states with Mobx on stencil components (unstable release)
+- [Cryptocurrency Data](https://github.com/OnnoGeorg/cryptocurrency-data): Web Component to display list of prices of popular Crypto Currencies
+- [Smile To Unlock(Unique)](https://github.com/jawache/smile-to-unlock): Web Component which captures an image from the users camera and uses the [Azure Cognitive Services Emotive API](http://bit.ly/emotive-api-stu) to figure out how happy the person is.
 
 ## Awesome IDE Specific Stencil Plugins/Snippets
 
@@ -39,3 +41,6 @@ An Awesome Talk to Know more about #StencilJS
 ## Awesome Articles Related
 - [Stencil with AngularJS(v1)](https://medium.com/@vivainio/using-stenciljs-components-in-angular-1-application-2f09287c151) - Using Stencil Component with AngularJS v1.
 Please feel free to add any component to this list by raising a PR.
+
+## List of Awesome Websites Built using StencilJS
+- [CodeCraft Smile To Unlock Video](https://codecraft.tv/courses/angular/es6-typescript/decorators/): Asim has developed this awesome [Web Component](https://github.com/jawache/smile-to-unlock) used in the videos of his course which allows users to view video only if they Smile :).
