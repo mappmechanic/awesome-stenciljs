@@ -44,3 +44,7 @@ Please feel free to add any component to this list by raising a PR.
 
 ## List of Awesome Websites Built using StencilJS
 - [CodeCraft Smile To Unlock Video](https://codecraft.tv/courses/angular/es6-typescript/decorators/): Asim has developed this awesome [Web Component](https://github.com/jawache/smile-to-unlock) used in the videos of his course which allows users to view video only if they Smile :).
+
+## Curated By
+### [mAppmechanic](https://twitter.com/mappmechanic): 
+LinkedIn Bio: [https://linkedin.com/in/rahatkh](https://linkedin.com/in/rahatkh)
