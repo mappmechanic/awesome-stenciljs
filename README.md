@@ -41,6 +41,9 @@ An Awesome Talk to Know more about #StencilJS
 - [UI Avatar](https://github.com/soapdog/webcomponent-ui-avatar): A web component to render User Avatar in your web app for all your users. It has an amazing feature to show Initials of name if no image is set. 
 - [Knitter UI](https://github.com/twincle/knitter-ui): A set of UI building blocks as web components to create amazing UIs. Right now it has an extensive set of buttons.
 - [Lazy Iframe](https://github.com/jgw96/lazy-iframe): A iframe based web component which lazy load iframes as the user scrolls over them.
+- [Loading Spinner](https://github.com/seanwuapps/stencil-loading-spinner): A variety of loading spinners rendered using the same web component without the need of using different styles or images.
+- [ST-Flippy](https://github.com/zwacky/st-flippy): A web component to add Flip events to any HTML element. It has a smooth animation implemented.
+- [ST-Signature](https://github.com/gilf/st-signature): A Stencil component that allows the user to sign on screen and to get the bitmap of the signature.
 
 ## Awesome IDE Specific Stencil Plugins/Snippets
 
@@ -50,6 +53,8 @@ An Awesome Talk to Know more about #StencilJS
 ## Awesome Articles Related
 - [Stencil with AngularJS(v1)](https://medium.com/@vivainio/using-stenciljs-components-in-angular-1-application-2f09287c151) - Using Stencil Component with AngularJS v1.
 Please feel free to add any component to this list by raising a PR.
+- [Faster Web Apps Using Stencil](http://warebo.com/faster-web-apps-using-stencil-mnsjL-WYzKQ) - An article with a small video explaining how you can develop faster web apps using StencilJS.
+- [How I built Smile to Unlock](https://codecraft.tv/blog/2017/10/10/smile-to-unlock-webcomponent-stenciljs/)- How Asim built SmileToUnlock using StencilJS components.
 
 ## List of Awesome Websites Built using StencilJS
 - [CodeCraft Smile To Unlock Video](https://codecraft.tv/courses/angular/es6-typescript/decorators/): Asim has developed this awesome [Web Component](https://github.com/jawache/smile-to-unlock) used in the videos of his course which allows users to view video only if they Smile :).
