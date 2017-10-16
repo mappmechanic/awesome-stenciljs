@@ -31,7 +31,16 @@ An Awesome Talk to Know more about #StencilJS
 - [Stencil Components](https://github.com/CodeDimension/stencil-components): Web UI components built on top of StencilJS
 - [Stencil Mobx](https://github.com/aaronksaunders/stencil-mobx): Manage states with Mobx on stencil components (unstable release)
 - [Cryptocurrency Data](https://github.com/OnnoGeorg/cryptocurrency-data): Web Component to display list of prices of popular Crypto Currencies
+
+### Newly Added
+
 - [Smile To Unlock(Unique)](https://github.com/jawache/smile-to-unlock): Web Component which captures an image from the users camera and uses the [Azure Cognitive Services Emotive API](http://bit.ly/emotive-api-stu) to figure out how happy the person is.
+- [ST-Voice2Text](https://github.com/Fdom92/stencil-voice2text): Web Component which allows you to use the Web Speech API in browsers where it is supported. 
+- [LithiumJS](https://www.npmjs.com/package/lithiumjs) (Under Development): A set of Web Components for building UI Screens like Drawer, Inputs, Modal, Notifications etc. 
+- [STX-ABTest](https://www.npmjs.com/package/stx-abtest): A Web Component to help you implement A/B Test for your web app
+- [UI Avatar](https://github.com/soapdog/webcomponent-ui-avatar): A web component to render User Avatar in your web app for all your users. It has an amazing feature to show Initials of name if no image is set. 
+- [Knitter UI](https://github.com/twincle/knitter-ui): A set of UI building blocks as web components to create amazing UIs. Right now it has an extensive set of buttons.
+- [Lazy Iframe](https://github.com/jgw96/lazy-iframe): A iframe based web component which lazy load iframes as the user scrolls over them.
 
 ## Awesome IDE Specific Stencil Plugins/Snippets
 
