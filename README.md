@@ -32,6 +32,7 @@ An Awesome Talk to Know more about #StencilJS
 - [Stencil Mobx](https://github.com/aaronksaunders/stencil-mobx): Manage states with Mobx on stencil components (unstable release)
 - [Cryptocurrency Data](https://github.com/OnnoGeorg/cryptocurrency-data): Web Component to display list of prices of popular Crypto Currencies
 
+
 ### Newly Added
 
 - [Smile To Unlock(Unique)](https://github.com/jawache/smile-to-unlock): Web Component which captures an image from the users camera and uses the [Azure Cognitive Services Emotive API](http://bit.ly/emotive-api-stu) to figure out how happy the person is.
@@ -44,6 +45,8 @@ An Awesome Talk to Know more about #StencilJS
 - [Loading Spinner](https://github.com/seanwuapps/stencil-loading-spinner): A variety of loading spinners rendered using the same web component without the need of using different styles or images.
 - [ST-Flippy](https://github.com/zwacky/st-flippy): A web component to add Flip events to any HTML element. It has a smooth animation implemented.
 - [ST-Signature](https://github.com/gilf/st-signature): A Stencil component that allows the user to sign on screen and to get the bitmap of the signature.
+- [Web Audio](https://github.com/splitinfinities/web-audio-wc): Web Audio API as a set of web components! Provides `<web-audio>`, `<web-audio-source>`, `<web-audio-effect>`, `<web-audio-visualizer>`, `<web-audio-sequencer>`, and `<web-audio-debugger>`. 
+
 
 ## Awesome IDE Specific Stencil Plugins/Snippets
 
