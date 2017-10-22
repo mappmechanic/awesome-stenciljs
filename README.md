@@ -68,3 +68,6 @@ LinkedIn Bio: [https://linkedin.com/in/rahatkh](https://linkedin.com/in/rahatkh)
 
 ### [Utwo](https://github.com/utwo)
 Website: [http://utwo.ro](http://utwo.ro)
+
+### [William M. Riley](https://github.com/splitinfinities)
+Twitter: [https://twitter.com/splitinfinities](https://twitter.com/splitinfinities) 
