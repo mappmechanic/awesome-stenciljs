@@ -58,6 +58,8 @@ An Awesome Talk to Know more about #StencilJS
 Please feel free to add any component to this list by raising a PR.
 - [Faster Web Apps Using Stencil](http://warebo.com/faster-web-apps-using-stencil-mnsjL-WYzKQ) - An article with a small video explaining how you can develop faster web apps using StencilJS.
 - [How I built Smile to Unlock](https://codecraft.tv/blog/2017/10/10/smile-to-unlock-webcomponent-stenciljs/)- How Asim built SmileToUnlock using StencilJS components.
+- [Stencil Todo with Redux](https://www.javascripttuts.com/coupling-a-stencil-todo-app-with-redux/) - Awesome article explaining how to use stencil todo with redux.
+- [Getting Started with StencilJS](https://codingthesmartway.com/getting-started-with-stencil-a-web-component-generator/) - Great resource to get started with StencilJS development.
 
 ## List of Awesome Websites Built using StencilJS
 - [CodeCraft Smile To Unlock Video](https://codecraft.tv/courses/angular/es6-typescript/decorators/): Asim has developed this awesome [Web Component](https://github.com/jawache/smile-to-unlock) used in the videos of his course which allows users to view video only if they Smile :).
