@@ -54,6 +54,7 @@ An Awesome Talk to Know more about #StencilJS
 - [Stencil Snippets](https://github.com/Fdom92/stencil-snippets) - Stencil Snippets like st-component(generate component), st-prop(add new prop), st-event (add new @Event) etc.
 
 ## Awesome Articles Related
+- [How Stencil Fit Into Micro Frontend Ideas](https://medium.com/@gilfink/avoiding-the-framework-catholic-wedding-using-stencil-compiler-3c2aa55bcaca) - An interesting read to know about usability of stenciljs
 - [Stencil with AngularJS(v1)](https://medium.com/@vivainio/using-stenciljs-components-in-angular-1-application-2f09287c151) - Using Stencil Component with AngularJS v1.
 Please feel free to add any component to this list by raising a PR.
 - [Faster Web Apps Using Stencil](http://warebo.com/faster-web-apps-using-stencil-mnsjL-WYzKQ) - An article with a small video explaining how you can develop faster web apps using StencilJS.
