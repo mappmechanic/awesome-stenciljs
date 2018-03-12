@@ -20,7 +20,6 @@ An Awesome Talk to Know more about #StencilJS
 [![Watch the video](https://i.ytimg.com/vi_webp/UfD-k7aHkQE/maxresdefault.webp)](https://youtu.be/UfD-k7aHkQE)
 
 ## List of Awesome Components Made using StencilJS
-
 - [Stencil Payment](https://github.com/Fdom92/stencil-payment#): A Web Component which allows any web app to use the Payment Request API
 - [Web Share](https://github.com/jgw96/web-share): WC that makes it super easy to use the [web share api](https://developers.google.com/web/updates/2016/09/navigator-share).
 - [ST Image](https://github.com/jgw96/st-img): WC to Lazy Load Images as user scrolls them into the view port.
@@ -31,10 +30,10 @@ An Awesome Talk to Know more about #StencilJS
 - [Stencil Components](https://github.com/CodeDimension/stencil-components): Web UI components built on top of StencilJS
 - [Stencil Mobx](https://github.com/aaronksaunders/stencil-mobx): Manage states with Mobx on stencil components (unstable release)
 - [Cryptocurrency Data](https://github.com/OnnoGeorg/cryptocurrency-data): Web Component to display list of prices of popular Crypto Currencies
-
+- [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
 
 ### Newly Added
-
+- [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
 - [Smile To Unlock(Unique)](https://github.com/jawache/smile-to-unlock): Web Component which captures an image from the users camera and uses the [Azure Cognitive Services Emotive API](http://bit.ly/emotive-api-stu) to figure out how happy the person is.
 - [ST-Voice2Text](https://github.com/Fdom92/stencil-voice2text): Web Component which allows you to use the Web Speech API in browsers where it is supported. 
 - [LithiumJS](https://www.npmjs.com/package/lithiumjs) (Under Development): A set of Web Components for building UI Screens like Drawer, Inputs, Modal, Notifications etc. 
