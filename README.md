@@ -31,6 +31,7 @@ An Awesome Talk to Know more about #StencilJS
 - [Stencil Mobx](https://github.com/aaronksaunders/stencil-mobx): Manage states with Mobx on stencil components (unstable release)
 - [Cryptocurrency Data](https://github.com/OnnoGeorg/cryptocurrency-data): Web Component to display list of prices of popular Crypto Currencies
 - [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
+- [BlazeUI](https://www.blazeui.com/): Fully featured CSS / web component framework
 
 ### Newly Added
 - [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
