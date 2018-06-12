@@ -10,6 +10,8 @@
 
 [Awesome Stencil Articles](https://github.com/mappmechanic/awesome-stenciljs#awesome-articles-related)
 
+[Miscellaneous](#miscellaneous)
+
 
 ## What is StencilJS ?
 
@@ -67,6 +69,9 @@ An Awesome Talk to Know more about #StencilJS
 
 ### Visual Studio Code
 - [Stencil Snippets](https://github.com/Fdom92/stencil-snippets) - Stencil Snippets like st-component(generate component), st-prop(add new prop), st-event (add new @Event) etc.
+
+## Miscellaneous
+- [Stencil cheatsheet](https://devhints.io/stencil): Overview of Stencil best practices.
 
 ## Awesome Articles Related
 - [How Stencil Fit Into Micro Frontend Ideas](https://medium.com/@gilfink/avoiding-the-framework-catholic-wedding-using-stencil-compiler-3c2aa55bcaca) - An interesting read to know about usability of stenciljs
