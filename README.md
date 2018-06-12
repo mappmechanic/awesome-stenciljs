@@ -47,6 +47,17 @@ An Awesome Talk to Know more about #StencilJS
 - [ST-Signature](https://github.com/gilf/st-signature): A Stencil component that allows the user to sign on screen and to get the bitmap of the signature.
 - [Web Audio](https://github.com/splitinfinities/web-audio-wc): Web Audio API as a set of web components! Provides `<web-audio>`, `<web-audio-source>`, `<web-audio-effect>`, `<web-audio-visualizer>`, `<web-audio-sequencer>`, and `<web-audio-debugger>`. 
 
+## Boilerplates and templates
+
+### Ionic official
+- [Stencil Component Starter](https://github.com/ionic-team/stencil-component-starter): Minimal boilerplate to create Stencil components.
+- [Stencil App Starter](https://github.com/ionic-team/stencil-app-starter): Basic boilerplate for Stencil components or apps.
+- [Ionic PWA Toolkit Beta](https://github.com/ionic-team/ionic-pwa-toolkit): Great starter template for building true PWAs with the power of Ionic and StencilJS.
+
+## Tools (CLIs, scripts, etc.)
+
+### Ionic official
+- [Create Stencil](https://github.com/ionic-team/create-stencil): A simple but effective npm script to start off a StencilJS project. Useful for complete apps, not just components. Uses the above starter packs [Boilerplates](#boilerplates-and-templates)
 
 ## Awesome IDE Specific Stencil Plugins/Snippets
 
