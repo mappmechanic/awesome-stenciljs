@@ -52,6 +52,7 @@ An Awesome Talk to Know more about #StencilJS
 
 ### Visual Studio Code
 - [Stencil Snippets](https://github.com/Fdom92/stencil-snippets) - Stencil Snippets like st-component(generate component), st-prop(add new prop), st-event (add new @Event) etc.
+- [Stencil Tools](https://github.com/natemoo-re/vscode-stencil-tools) - Makes working with Stencil projects a breeze. Features new project, component, and test generators, snippets with automatic imports, and other helpful utilities.
 
 ## Awesome Articles Related
 - [How Stencil Fit Into Micro Frontend Ideas](https://medium.com/@gilfink/avoiding-the-framework-catholic-wedding-using-stencil-compiler-3c2aa55bcaca) - An interesting read to know about usability of stenciljs
