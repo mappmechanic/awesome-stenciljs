@@ -2,9 +2,15 @@
 
 [Awesome Stencil Components](https://github.com/mappmechanic/awesome-stenciljs#list-of-awesome-components-made-using-stenciljs)
 
+[Boilerplates](#boilerplates-and-templates)
+
+[Tools](#tools)
+
 [Awesome IDE Plugins](https://github.com/mappmechanic/awesome-stenciljs#awesome-ide-specific-stencil-pluginssnippets)
 
 [Awesome Stencil Articles](https://github.com/mappmechanic/awesome-stenciljs#awesome-articles-related)
+
+[Miscellaneous](#miscellaneous)
 
 
 ## What is StencilJS ?
@@ -47,12 +53,26 @@ An Awesome Talk to Know more about #StencilJS
 - [ST-Signature](https://github.com/gilf/st-signature): A Stencil component that allows the user to sign on screen and to get the bitmap of the signature.
 - [Web Audio](https://github.com/splitinfinities/web-audio-wc): Web Audio API as a set of web components! Provides `<web-audio>`, `<web-audio-source>`, `<web-audio-effect>`, `<web-audio-visualizer>`, `<web-audio-sequencer>`, and `<web-audio-debugger>`. 
 
+## Boilerplates and templates
+
+### Ionic official
+- [Stencil Component Starter](https://github.com/ionic-team/stencil-component-starter): Minimal boilerplate to create Stencil components.
+- [Stencil App Starter](https://github.com/ionic-team/stencil-app-starter): Basic boilerplate for Stencil components or apps.
+- [Ionic PWA Toolkit Beta](https://github.com/ionic-team/ionic-pwa-toolkit): Great starter template for building true PWAs with the power of Ionic and StencilJS.
+
+## Tools (CLIs, scripts, etc.)
+
+### Ionic official
+- [Create Stencil](https://github.com/ionic-team/create-stencil): A simple but effective npm script to start off a StencilJS project. Useful for complete apps, not just components. Uses the above starter packs [Boilerplates](#boilerplates-and-templates)
 
 ## Awesome IDE Specific Stencil Plugins/Snippets
 
 ### Visual Studio Code
 - [Stencil Snippets](https://github.com/Fdom92/stencil-snippets) - Stencil Snippets like st-component(generate component), st-prop(add new prop), st-event (add new @Event) etc.
 - [Stencil Tools](https://github.com/natemoo-re/vscode-stencil-tools) - Makes working with Stencil projects a breeze. Features new project, component, and test generators, snippets with automatic imports, and other helpful utilities.
+
+## Miscellaneous
+- [Stencil cheatsheet](https://devhints.io/stencil): Overview of Stencil best practices.
 
 ## Awesome Articles Related
 - [How Stencil Fit Into Micro Frontend Ideas](https://medium.com/@gilfink/avoiding-the-framework-catholic-wedding-using-stencil-compiler-3c2aa55bcaca) - An interesting read to know about usability of stenciljs
