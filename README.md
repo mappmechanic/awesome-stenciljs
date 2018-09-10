@@ -38,6 +38,7 @@ An Awesome Talk to Know more about #StencilJS
 - [Cryptocurrency Data](https://github.com/OnnoGeorg/cryptocurrency-data): Web Component to display list of prices of popular Crypto Currencies
 - [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
 - [BlazeUI](https://www.blazeui.com/): Fully featured CSS / web component framework
+- [SplitMe](https://github.com/alesgenova/split-me):  Universal web component to create resizable split layouts
 
 ### Newly Added
 - [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
