@@ -38,6 +38,7 @@ An Awesome Talk to Know more about #StencilJS
 - [Cryptocurrency Data](https://github.com/OnnoGeorg/cryptocurrency-data): Web Component to display list of prices of popular Crypto Currencies
 - [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
 - [BlazeUI](https://www.blazeui.com/): Fully featured CSS / web component framework
+- [SplitMe](https://github.com/alesgenova/split-me):  Universal web component to create resizable split layouts
 
 ### Newly Added
 - [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
@@ -82,6 +83,7 @@ Please feel free to add any component to this list by raising a PR.
 - [How I built Smile to Unlock](https://codecraft.tv/blog/2017/10/10/smile-to-unlock-webcomponent-stenciljs/)- How Asim built SmileToUnlock using StencilJS components.
 - [Stencil Todo with Redux](https://www.javascripttuts.com/coupling-a-stencil-todo-app-with-redux/) - Awesome article explaining how to use stencil todo with redux.
 - [Getting Started with StencilJS](https://codingthesmartway.com/getting-started-with-stencil-a-web-component-generator/) - Great resource to get started with StencilJS development.
+- [Stencil components in React, Vue, and Angular](https://medium.com/@ales.genova/stenciljs-in-react-vue-angular-82fded0c738f) - Step by step guide to use stencil components in the most popular JavaScript frameworks.
 
 ## List of Awesome Websites Built using StencilJS
 - [CodeCraft Smile To Unlock Video](https://codecraft.tv/courses/angular/es6-typescript/decorators/): Asim has developed this awesome [Web Component](https://github.com/jawache/smile-to-unlock) used in the videos of his course which allows users to view video only if they Smile :).
