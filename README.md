@@ -39,6 +39,7 @@ An Awesome Talk to Know more about #StencilJS
 - [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
 - [BlazeUI](https://www.blazeui.com/): Fully featured CSS / web component framework
 - [SplitMe](https://github.com/alesgenova/split-me):  Universal web component to create resizable split layouts
+- [Simple Buttons](https://github.com/michaelauderer/simple-buttons): Beautiful interactive buttons inspired by Material Design
 
 ### Newly Added
 - [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
