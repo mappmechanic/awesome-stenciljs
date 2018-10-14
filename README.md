@@ -40,6 +40,7 @@ An Awesome Talk to Know more about #StencilJS
 - [BlazeUI](https://www.blazeui.com/): Fully featured CSS / web component framework
 - [SplitMe](https://github.com/alesgenova/split-me):  Universal web component to create resizable split layouts
 - [Simple Buttons](https://github.com/michaelauderer/simple-buttons): Beautiful interactive buttons inspired by Material Design
+- [Stencil Fragment](https://github.com/michaelauderer/stencil-fragment): Allows the use of <Fragment> to render multiple elements without the need of a wrapping div or returning an array.
 
 ### Newly Added
 - [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
