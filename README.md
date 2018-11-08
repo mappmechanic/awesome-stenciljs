@@ -43,6 +43,7 @@ An Awesome Talk to Know more about #StencilJS
 - [Stencil Fragment](https://github.com/michaelauderer/stencil-fragment): Allows the use of <Fragment> to render multiple elements without the need of a wrapping div or returning an array.
 
 ### Newly Added
+- [o-demo-bar](https://github.com/o-rango/orango-demo-tools): Development toolbox for web components made with stencil [demo](https://o-rango.github.io/orango-demo-tools/)
 - [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
 - [Smile To Unlock(Unique)](https://github.com/jawache/smile-to-unlock): Web Component which captures an image from the users camera and uses the [Azure Cognitive Services Emotive API](http://bit.ly/emotive-api-stu) to figure out how happy the person is.
 - [ST-Voice2Text](https://github.com/Fdom92/stencil-voice2text): Web Component which allows you to use the Web Speech API in browsers where it is supported. 
