@@ -41,9 +41,11 @@ An Awesome Talk to Know more about #StencilJS
 - [SplitMe](https://github.com/alesgenova/split-me):  Universal web component to create resizable split layouts
 - [Simple Buttons](https://github.com/michaelauderer/simple-buttons): Beautiful interactive buttons inspired by Material Design
 - [Stencil Fragment](https://github.com/michaelauderer/stencil-fragment): Allows the use of <Fragment> to render multiple elements without the need of a wrapping div or returning an array.
+- [Stencil Styled Components](https://github.com/michaelauderer/stencil-styled-components) Small library to bring the concept of styled-components to StencilJS
 
 ### Newly Added
 - [o-demo-bar](https://github.com/o-rango/orango-demo-tools): Development toolbox for web components made with stencil [demo](https://o-rango.github.io/orango-demo-tools/)
+- [Bruit.io](https://github.com/Moventes/bruit.io): Fully customizable web component, collecting user feedback with screenshot and technical data to a compatible API. Try it out [here](https://bruit.io/get-started).
 - [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
 - [Smile To Unlock(Unique)](https://github.com/jawache/smile-to-unlock): Web Component which captures an image from the users camera and uses the [Azure Cognitive Services Emotive API](http://bit.ly/emotive-api-stu) to figure out how happy the person is.
 - [ST-Voice2Text](https://github.com/Fdom92/stencil-voice2text): Web Component which allows you to use the Web Speech API in browsers where it is supported. 
