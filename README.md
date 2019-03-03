@@ -35,6 +35,7 @@ An Awesome Talk to Know more about #StencilJS
 - [Video Player](https://github.com/CookieCookson/stencil-video-player): WC for rendering an ioperable video player with controls and full screen mode too.
 - [Stencil Components](https://github.com/CodeDimension/stencil-components): Web UI components built on top of StencilJS
 - [Stencil Mobx](https://github.com/aaronksaunders/stencil-mobx): Manage states with Mobx on stencil components (unstable release)
+- [Stencil Reflector](https://github.com/RienNeVaPlus/stencil-reflector): Synchronizes decorated object members to their stencil component (alternative to stencil-mobx)
 - [Cryptocurrency Data](https://github.com/OnnoGeorg/cryptocurrency-data): Web Component to display list of prices of popular Crypto Currencies
 - [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
 - [BlazeUI](https://www.blazeui.com/): Fully featured CSS / web component framework
