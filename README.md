@@ -42,6 +42,7 @@ An Awesome Talk to Know more about #StencilJS
 - [Simple Buttons](https://github.com/michaelauderer/simple-buttons): Beautiful interactive buttons inspired by Material Design
 - [Stencil Fragment](https://github.com/michaelauderer/stencil-fragment): Allows the use of <Fragment> to render multiple elements without the need of a wrapping div or returning an array.
 - [Stencil Styled Components](https://github.com/michaelauderer/stencil-styled-components) Small library to bring the concept of styled-components to StencilJS
+- [Stencil-Apollo](https://github.com/ardatan/stencil-apollo) - A set of Web Components based on [Apollo Client](https://github.com/apollographql/apollo-client)
 
 ### Newly Added
 - [o-demo-bar](https://github.com/o-rango/orango-demo-tools): Development toolbox for web components made with stencil [demo](https://o-rango.github.io/orango-demo-tools/)
