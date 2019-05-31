@@ -1,6 +1,8 @@
 # Awesome StencilJS
 
 [Awesome Stencil Components](https://github.com/mappmechanic/awesome-stenciljs#list-of-awesome-components-made-using-stenciljs)
+  - Component Libraries
+  - Individual Components
 
 [Boilerplates](#boilerplates-and-templates)
 
@@ -26,6 +28,27 @@ An Awesome Talk to Know more about #StencilJS
 [![Watch the video](https://i.ytimg.com/vi_webp/UfD-k7aHkQE/maxresdefault.webp)](https://youtu.be/UfD-k7aHkQE)
 
 ## List of Awesome Components Made using StencilJS
+We are dividing the list into 2 categories for better readibility. Also the most recent ones are on the top and older ones in the bottom.
+
+### Component Libraries
+- [Stencil Components](https://github.com/CodeDimension/stencil-components): Web UI components built on top of StencilJS
+- [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
+- [BlazeUI](https://www.blazeui.com/): Fully featured CSS / web component framework
+- [Stencil Styled Components](https://github.com/michaelauderer/stencil-styled-components) Small library to bring the concept of styled-components to StencilJS
+- [Knitter UI](https://github.com/twincle/knitter-ui): A set of UI building blocks as web components to create amazing UIs. Right now it has an extensive set of buttons.
+- [LithiumJS](https://www.npmjs.com/package/lithiumjs) (Under Development): A set of Web Components for building UI Screens like Drawer, Inputs, Modal, Notifications etc. 
+
+### Individual Components
+- [Lazy Iframe](https://github.com/jgw96/lazy-iframe): A iframe based web component which lazy load iframes as the user scrolls over them.
+- [Loading Spinner](https://github.com/seanwuapps/stencil-loading-spinner): A variety of loading spinners rendered using the same web component without the need of using different styles or images.
+- [ST-Flippy](https://github.com/zwacky/st-flippy): A web component to add Flip events to any HTML element. It has a smooth animation implemented.
+- [ST-Signature](https://github.com/gilf/st-signature): A Stencil component that allows the user to sign on screen and to get the bitmap of the signature.
+- [Web Audio](https://github.com/splitinfinities/web-audio-wc): Web Audio API as a set of web components! Provides `<web-audio>`, `<web-audio-source>`, `<web-audio-effect>`, `<web-audio-visualizer>`, `<web-audio-sequencer>`, and `<web-audio-debugger>`. 
+- [Smile To Unlock(Unique)](https://github.com/jawache/smile-to-unlock): Web Component which captures an image from the users camera and uses the [Azure Cognitive Services Emotive API](http://bit.ly/emotive-api-stu) to figure out how happy the person is.
+- [Bruit.io](https://github.com/Moventes/bruit.io): Fully customizable web component, collecting user feedback with screenshot and technical data to a compatible API. Try it out [here](https://bruit.io/get-started).
+- [Stencil-Apollo](https://github.com/ardatan/stencil-apollo) - A set of Web Components based on [Apollo Client](https://github.com/apollographql/apollo-client)
+- [Stencil Mobx](https://github.com/aaronksaunders/stencil-mobx): Manage states with Mobx on stencil components (unstable release)
+- [Stencil Reflector](https://github.com/RienNeVaPlus/stencil-reflector): Synchronizes decorated object members to their stencil component (alternative to stencil-mobx)
 - [Stencil Payment](https://github.com/Fdom92/stencil-payment#): A Web Component which allows any web app to use the Payment Request API
 - [Web Share](https://github.com/jgw96/web-share): WC that makes it super easy to use the [web share api](https://developers.google.com/web/updates/2016/09/navigator-share).
 - [ST Image](https://github.com/jgw96/st-img): WC to Lazy Load Images as user scrolls them into the view port.
@@ -33,33 +56,14 @@ An Awesome Talk to Know more about #StencilJS
 - [FWT Slider](https://github.com/seveves/angular-stencil): Slider Stencil Component demonstrated to work with Angular or any other framework
 - [ST Fetch](https://github.com/Fdom92/stencil-fetch): WC To make a Fetch API call to the backend.
 - [Video Player](https://github.com/CookieCookson/stencil-video-player): WC for rendering an ioperable video player with controls and full screen mode too.
-- [Stencil Components](https://github.com/CodeDimension/stencil-components): Web UI components built on top of StencilJS
-- [Stencil Mobx](https://github.com/aaronksaunders/stencil-mobx): Manage states with Mobx on stencil components (unstable release)
-- [Stencil Reflector](https://github.com/RienNeVaPlus/stencil-reflector): Synchronizes decorated object members to their stencil component (alternative to stencil-mobx)
 - [Cryptocurrency Data](https://github.com/OnnoGeorg/cryptocurrency-data): Web Component to display list of prices of popular Crypto Currencies
-- [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
-- [BlazeUI](https://www.blazeui.com/): Fully featured CSS / web component framework
 - [SplitMe](https://github.com/alesgenova/split-me):  Universal web component to create resizable split layouts
 - [Simple Buttons](https://github.com/michaelauderer/simple-buttons): Beautiful interactive buttons inspired by Material Design
 - [Stencil Fragment](https://github.com/michaelauderer/stencil-fragment): Allows the use of <Fragment> to render multiple elements without the need of a wrapping div or returning an array.
-- [Stencil Styled Components](https://github.com/michaelauderer/stencil-styled-components) Small library to bring the concept of styled-components to StencilJS
-- [Stencil-Apollo](https://github.com/ardatan/stencil-apollo) - A set of Web Components based on [Apollo Client](https://github.com/apollographql/apollo-client)
-
-### Newly Added
 - [o-demo-bar](https://github.com/o-rango/orango-demo-tools): Development toolbox for web components made with stencil [demo](https://o-rango.github.io/orango-demo-tools/)
-- [Bruit.io](https://github.com/Moventes/bruit.io): Fully customizable web component, collecting user feedback with screenshot and technical data to a compatible API. Try it out [here](https://bruit.io/get-started).
-- [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
-- [Smile To Unlock(Unique)](https://github.com/jawache/smile-to-unlock): Web Component which captures an image from the users camera and uses the [Azure Cognitive Services Emotive API](http://bit.ly/emotive-api-stu) to figure out how happy the person is.
 - [ST-Voice2Text](https://github.com/Fdom92/stencil-voice2text): Web Component which allows you to use the Web Speech API in browsers where it is supported. 
-- [LithiumJS](https://www.npmjs.com/package/lithiumjs) (Under Development): A set of Web Components for building UI Screens like Drawer, Inputs, Modal, Notifications etc. 
 - [STX-ABTest](https://www.npmjs.com/package/stx-abtest): A Web Component to help you implement A/B Test for your web app
 - [UI Avatar](https://github.com/soapdog/webcomponent-ui-avatar): A web component to render User Avatar in your web app for all your users. It has an amazing feature to show Initials of name if no image is set. 
-- [Knitter UI](https://github.com/twincle/knitter-ui): A set of UI building blocks as web components to create amazing UIs. Right now it has an extensive set of buttons.
-- [Lazy Iframe](https://github.com/jgw96/lazy-iframe): A iframe based web component which lazy load iframes as the user scrolls over them.
-- [Loading Spinner](https://github.com/seanwuapps/stencil-loading-spinner): A variety of loading spinners rendered using the same web component without the need of using different styles or images.
-- [ST-Flippy](https://github.com/zwacky/st-flippy): A web component to add Flip events to any HTML element. It has a smooth animation implemented.
-- [ST-Signature](https://github.com/gilf/st-signature): A Stencil component that allows the user to sign on screen and to get the bitmap of the signature.
-- [Web Audio](https://github.com/splitinfinities/web-audio-wc): Web Audio API as a set of web components! Provides `<web-audio>`, `<web-audio-source>`, `<web-audio-effect>`, `<web-audio-visualizer>`, `<web-audio-sequencer>`, and `<web-audio-debugger>`. 
 
 ## Boilerplates and templates
 
