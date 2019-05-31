@@ -1,8 +1,8 @@
 # Awesome StencilJS
 
 [Awesome Stencil Components](https://github.com/mappmechanic/awesome-stenciljs#list-of-awesome-components-made-using-stenciljs)
-  - Component Libraries
-  - Individual Components
+  - [Component Libraries](https://github.com/mappmechanic/awesome-stenciljs#component-libraries)
+  - [Individual Components](https://github.com/mappmechanic/awesome-stenciljs#individual-components)
 
 [Boilerplates](#boilerplates-and-templates)
 
