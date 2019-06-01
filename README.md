@@ -110,3 +110,6 @@ Website: [http://utwo.ro](http://utwo.ro)
 
 ### [William M. Riley](https://github.com/splitinfinities)
 Twitter: [https://twitter.com/splitinfinities](https://twitter.com/splitinfinities) 
+
+### [Falk (Nudelsieb)](https://github.com/Nudelsieb)
+Github: https://github.com/Nudelsieb
