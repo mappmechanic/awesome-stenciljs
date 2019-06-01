@@ -40,6 +40,7 @@ We are dividing the list into 2 categories for better readibility. Also the most
 - [Knitter UI](https://github.com/twincle/knitter-ui): A set of UI building blocks as web components to create amazing UIs. Right now it has an extensive set of buttons.
 
 ### Individual Components
+- [Web Photo Filter](https://github.com/fluster/web-photo-filter) An amazing high performance Photo filter web component made using StencilJS.
 - [Lazy Iframe](https://github.com/jgw96/lazy-iframe): A iframe based web component which lazy load iframes as the user scrolls over them.
 - [Loading Spinner](https://github.com/seanwuapps/stencil-loading-spinner): A variety of loading spinners rendered using the same web component without the need of using different styles or images.
 - [ST-Flippy](https://github.com/zwacky/st-flippy): A web component to add Flip events to any HTML element. It has a smooth animation implemented.
