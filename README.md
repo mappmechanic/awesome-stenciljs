@@ -31,12 +31,13 @@ An Awesome Talk to Know more about #StencilJS
 We are dividing the list into 2 categories for better readibility. Also the most recent ones are on the top and older ones in the bottom.
 
 ### Component Libraries
+- [D3-Stencil](https://d3-stencil.dev/) - Library of web components over popular D3 graph library
+- [Material Web Components](https://material-webcomponents.com/demos?type=Button): UI Components built using Material Design principles and StencilJS (https://github.com/san2beerelli/material-webcomponents)
 - [Stencil Components](https://github.com/CodeDimension/stencil-components): Web UI components built on top of StencilJS
 - [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
-- [BlazeUI](https://www.blazeui.com/): Fully featured CSS / web component framework
+- [BlazeUI Atoms](https://www.blazeui.com/): Fully featured CSS / web component framework (https://github.com/BlazeSoftware/blaze/tree/master/packages/atoms)
 - [Stencil Styled Components](https://github.com/michaelauderer/stencil-styled-components) Small library to bring the concept of styled-components to StencilJS
 - [Knitter UI](https://github.com/twincle/knitter-ui): A set of UI building blocks as web components to create amazing UIs. Right now it has an extensive set of buttons.
-- [LithiumJS](https://www.npmjs.com/package/lithiumjs) (Under Development): A set of Web Components for building UI Screens like Drawer, Inputs, Modal, Notifications etc. 
 
 ### Individual Components
 - [Lazy Iframe](https://github.com/jgw96/lazy-iframe): A iframe based web component which lazy load iframes as the user scrolls over them.
