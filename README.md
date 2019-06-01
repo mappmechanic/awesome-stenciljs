@@ -74,6 +74,9 @@ We are dividing the list into 2 categories for better readibility. Also the most
 - [Stencil App Starter](https://github.com/ionic-team/stencil-app-starter): Basic boilerplate for Stencil components or apps.
 - [Ionic PWA Toolkit Beta](https://github.com/ionic-team/ionic-pwa-toolkit): Great starter template for building true PWAs with the power of Ionic and StencilJS.
 
+### Community
+- [Stencil Web Component Starter](https://github.com/khaledosman/stencil-web-components-demo) - A nice web components started which also tells how documentation is auto generated too.
+
 ## Tools (CLIs, scripts, etc.)
 
 ### Ionic official
