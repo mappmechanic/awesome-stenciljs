@@ -92,6 +92,7 @@ We are dividing the list into 2 categories for better readibility. Also the most
 - [Stencil cheatsheet](https://devhints.io/stencil): Overview of Stencil best practices.
 
 ## Awesome Articles Related
+- [Building a Modal Component using StencilJS via TDD] (https://medium.com/stencil-tricks/how-to-build-modals-with-stenciljs-f3e18caf86cf) An awesome read for anyone who is looking to create Enterprise ready Web Components using Test Driven Development approach and for all the people who always create a Modal component for React/Angular/Vue separately.
 - [Building a web-component library using StencilJS](https://medium.com/spring-media-techblog/building-a-web-component-library-with-stenciljs-77d730ccf568) This is the most popular use case for all the enterprises, to use Web Components as a reusable shared library.
 - [How Stencil Fit Into Micro Frontend Ideas](https://medium.com/@gilfink/avoiding-the-framework-catholic-wedding-using-stencil-compiler-3c2aa55bcaca) - An interesting read to know about usability of stenciljs
 - [Stencil with AngularJS(v1)](https://medium.com/@vivainio/using-stenciljs-components-in-angular-1-application-2f09287c151) - Using Stencil Component with AngularJS v1.
