@@ -1,3 +1,9 @@
+Finally Good News - Stencil v1 has been released
+
+<img src="https://ionicframework.com/blog/wp-content/uploads/2019/06/stencil-one-feature.png" width="250" />
+
+Announcement Blog Post - [https://ionicframework.com/blog/introducing-stencil-one-1-0-0/](https://ionicframework.com/blog/introducing-stencil-one-1-0-0/)
+
 # Awesome StencilJS
 
 [Awesome Stencil Components](https://github.com/mappmechanic/awesome-stenciljs#list-of-awesome-components-made-using-stenciljs)
