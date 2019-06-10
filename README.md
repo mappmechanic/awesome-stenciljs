@@ -46,6 +46,7 @@ We are dividing the list into 2 categories for better readibility. Also the most
 - [Knitter UI](https://github.com/twincle/knitter-ui): A set of UI building blocks as web components to create amazing UIs. Right now it has an extensive set of buttons.
 
 ### Individual Components
+- [Rating Component](https://github.com/logisticinfotech/rating-component) An amazing svg based rating component. There is a blog post how to create such a component too. [https://www.logisticinfotech.com/blog/custom-rating-component/](https://www.logisticinfotech.com/blog/custom-rating-component/)
 - [Fast Morph](https://github.com/matteobortolazzo/fast-morph) An awesome morhping UI web component to help you animate your elements from one UI state to another using Light DOM.
 - [Web Photo Filter](https://github.com/fluster/web-photo-filter) An amazing high performance Photo filter web component made using StencilJS.
 - [Lazy Iframe](https://github.com/jgw96/lazy-iframe): A iframe based web component which lazy load iframes as the user scrolls over them.
