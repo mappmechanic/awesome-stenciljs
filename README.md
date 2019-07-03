@@ -76,6 +76,7 @@ We are dividing the list into 2 categories for better readibility. Also the most
 - [UI Avatar](https://github.com/soapdog/webcomponent-ui-avatar): A web component to render User Avatar in your web app for all your users. It has an amazing feature to show Initials of name if no image is set. 
 - [IonPhaser](https://github.com/proyecto26/ion-phaser): A web component to integrate Phaser Framework with Angular, React, Vue, etc 🎮
 - [nice-anim](https://github.com/Nicell/nice-anim): A Web Component to add "animate/reveal on scroll" by wrapping elements with it.
+- [always-avatar](https://github.com/org-redtea/always-avatar): Generate nice replacement for avatar by username or email or whatever
 
 ## Awesome Web/Mobile Apps built Using StencilJS
 - [DeckDeck Go](https://deckdeckgo.com) - An awesome online Presentation maker with a mobile remote control and everything implemented using StencilJS and awesome node based APIs. Source - https://github.com/deckgo/deckdeckgo/tree/master/webcomponents
