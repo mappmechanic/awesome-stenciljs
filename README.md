@@ -44,6 +44,7 @@ We are dividing the list into 2 categories for better readibility. Also the most
 - [BlazeUI Atoms](https://www.blazeui.com/): Fully featured CSS / web component framework (https://github.com/BlazeSoftware/blaze/tree/master/packages/atoms)
 - [Stencil Styled Components](https://github.com/michaelauderer/stencil-styled-components) Small library to bring the concept of styled-components to StencilJS
 - [Knitter UI](https://github.com/twincle/knitter-ui): A set of UI building blocks as web components to create amazing UIs. Right now it has an extensive set of buttons.
+- [Assister Chat](https://github.com/assister-ai/assister/tree/master/packages/chat) Web Components resembling WhatsApp and Telegram for creating chatbot and live chat applications
 
 ### Individual Components
 - [Rating Component](https://github.com/logisticinfotech/rating-component) An amazing svg based rating component. There is a blog post how to create such a component too. [https://www.logisticinfotech.com/blog/custom-rating-component/](https://www.logisticinfotech.com/blog/custom-rating-component/)
