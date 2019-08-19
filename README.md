@@ -47,6 +47,7 @@ We are dividing the list into 2 categories for better readibility. Also the most
 - [Assister Chat](https://github.com/assister-ai/assister/tree/master/packages/chat) Web Components resembling WhatsApp and Telegram for creating chatbot and live chat applications
 
 ### Individual Components
+- [Image Comparison Slider](https://github.com/sneas/img-comparison-slider) - Slider component to compare images before and after
 - [Trombone Component](https://github.com/StefanNieuwenhuis/wc-trombone) - An amazing Trombone Component that makes music when you resize the window. It's A showcase on how StencilJs and the Web Audio API can collaborate to create awesome things. 
 - [Rating Component](https://github.com/logisticinfotech/rating-component) An amazing svg based rating component. There is a blog post how to create such a component too. [https://www.logisticinfotech.com/blog/custom-rating-component/](https://www.logisticinfotech.com/blog/custom-rating-component/)
 - [Fast Morph](https://github.com/matteobortolazzo/fast-morph) An awesome morhping UI web component to help you animate your elements from one UI state to another using Light DOM.
