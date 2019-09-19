@@ -45,6 +45,7 @@ We are dividing the list into 2 categories for better readibility. Also the most
 - [Stencil Styled Components](https://github.com/michaelauderer/stencil-styled-components) Small library to bring the concept of styled-components to StencilJS
 - [Knitter UI](https://github.com/twincle/knitter-ui): A set of UI building blocks as web components to create amazing UIs. Right now it has an extensive set of buttons.
 - [Assister Chat](https://github.com/assister-ai/assister/tree/master/packages/chat) Web Components resembling WhatsApp and Telegram for creating chatbot and live chat applications
+- [stencil-react](https://github.com/petermikitsh/stencil-react): Generate React bindings for Stencil 1.x component libraries
 
 ### Individual Components
 - [Image Comparison Slider](https://github.com/sneas/img-comparison-slider) - Slider component to compare images before and after
