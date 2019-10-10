@@ -82,6 +82,7 @@ We are dividing the list into 2 categories for better readibility. Also the most
 - [nice-anim](https://github.com/Nicell/nice-anim): A Web Component to add "animate/reveal on scroll" by wrapping elements with it.
 - [always-avatar](https://github.com/org-redtea/always-avatar): Generate nice replacement for avatar by username or email or whatever
 - [Katex Expression](https://github.com/navsgh/katex-expression): A web component to render KaTeX expressions.
+- [web-complete](https://github.com/stefanhuber/web-complete): A lightweight, dependency-free, styleable autocomplete web component 
 
 ## Awesome Web/Mobile Apps built Using StencilJS
 - [DeckDeck Go](https://deckdeckgo.com) - An awesome online Presentation maker with a mobile remote control and everything implemented using StencilJS and awesome node based APIs. Source - https://github.com/deckgo/deckdeckgo/tree/master/webcomponents
