@@ -37,6 +37,7 @@ An Awesome Talk to Know more about #StencilJS
 We are dividing the list into 2 categories for better readibility. Also the most recent ones are on the top and older ones in the bottom.
 
 ### Component Libraries
+- [Fitness Dashboard Components](https://github.com/sean-perkins/fitness-dashboard-prototype) - Fitness Dashboard Components built using StencilJS
 - [D3-Stencil](https://d3-stencil.dev/) - Library of web components over popular D3 graph library
 - [Material Web Components](https://material-webcomponents.com/demos?type=Button): UI Components built using Material Design principles and StencilJS (https://github.com/san2beerelli/material-webcomponents)
 - [Stencil Components](https://github.com/CodeDimension/stencil-components): Web UI components built on top of StencilJS
