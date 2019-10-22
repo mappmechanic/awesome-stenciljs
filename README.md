@@ -44,7 +44,6 @@ We are dividing the list into 2 categories for better readibility. Also the most
 - [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
 - [BlazeUI Atoms](https://www.blazeui.com/): Fully featured CSS / web component framework (https://github.com/BlazeSoftware/blaze/tree/master/packages/atoms)
 - [Stencil Styled Components](https://github.com/michaelauderer/stencil-styled-components) Small library to bring the concept of styled-components to StencilJS
-- [Knitter UI](https://github.com/twincle/knitter-ui): A set of UI building blocks as web components to create amazing UIs. Right now it has an extensive set of buttons.
 - [Assister Chat](https://github.com/assister-ai/assister/tree/master/packages/chat) Web Components resembling WhatsApp and Telegram for creating chatbot and live chat applications
 - [stencil-react](https://github.com/petermikitsh/stencil-react): Generate React bindings for Stencil 1.x component libraries
 - [Bulmil](https://github.com/Gomah/bulmil): UI library based on Web Components, made with [Bulma](https://bulma.io) & stencil.
