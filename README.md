@@ -49,6 +49,7 @@ We are dividing the list into 2 categories for better readibility. Also the most
 - [Bulmil](https://github.com/Gomah/bulmil): UI library based on Web Components, made with [Bulma](https://bulma.io) & stencil.
 
 ### Individual Components
+- [Star Rating] (https://github.com/logisticinfotech/rating-component) - An amazing and flexible star rating component with lots of options.
 - [Image Comparison Slider](https://github.com/sneas/img-comparison-slider) - Slider component to compare images before and after
 - [Trombone Component](https://github.com/StefanNieuwenhuis/wc-trombone) - An amazing Trombone Component that makes music when you resize the window. It's A showcase on how StencilJs and the Web Audio API can collaborate to create awesome things. 
 - [Rating Component](https://github.com/logisticinfotech/rating-component) An amazing svg based rating component. There is a blog post how to create such a component too. [https://www.logisticinfotech.com/blog/custom-rating-component/](https://www.logisticinfotech.com/blog/custom-rating-component/)
