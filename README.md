@@ -79,7 +79,8 @@ We are dividing the list into 2 categories for better readibility. Also the most
 - [o-demo-bar](https://github.com/o-rango/orango-demo-tools): Development toolbox for web components made with stencil [demo](https://o-rango.github.io/orango-demo-tools/)
 - [ST-Voice2Text](https://github.com/Fdom92/stencil-voice2text): Web Component which allows you to use the Web Speech API in browsers where it is supported. 
 - [STX-ABTest](https://www.npmjs.com/package/stx-abtest): A Web Component to help you implement A/B Test for your web app
-- [UI Avatar](https://github.com/soapdog/webcomponent-ui-avatar): A web component to render User Avatar in your web app for all your users. It has an amazing feature to show Initials of name if no image is set. 
+- [UI Avatar](https://github.com/soapdog/webcomponent-ui-avatar): A web component to render User Avatar in your web app for all your users. It has an amazing feature to show Initials of name if no image is set.
+- [Animatable](https://proyecto26.github.io/animatable-component): Animate any HTML Element using Web Animations API in a declarative way! 💅
 - [IonPhaser](https://github.com/proyecto26/ion-phaser): A web component to integrate Phaser Framework with Angular, React, Vue, etc 🎮
 - [nice-anim](https://github.com/Nicell/nice-anim): A Web Component to add "animate/reveal on scroll" by wrapping elements with it.
 - [always-avatar](https://github.com/org-redtea/always-avatar): Generate nice replacement for avatar by username or email or whatever
