@@ -34,7 +34,10 @@ An Awesome Talk to Know more about #StencilJS
 [![Watch the video](https://i.ytimg.com/vi_webp/UfD-k7aHkQE/maxresdefault.webp)](https://youtu.be/UfD-k7aHkQE)
 
 ## List of Awesome Components Made using StencilJS
-We are dividing the list into 2 categories for better readibility. Also the most recent ones are on the top and older ones in the bottom.
+We are dividing the list into 3 categories for better readibility. Also the most recent ones are on the top and older ones in the bottom.
+
+### Design Systems 
+- [Duet Design System](https://www.duetds.com/using-components/) - A complete Stencil Based Design System component library which can be used with any SPA Framework like Angular/React etc.
 
 ### Component Libraries
 - [Fitness Dashboard Components](https://github.com/sean-perkins/fitness-dashboard-prototype) - Fitness Dashboard Components built using StencilJS
