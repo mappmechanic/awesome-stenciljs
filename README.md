@@ -52,10 +52,9 @@ We are dividing the list into 3 categories for better readibility. Also the most
 - [Bulmil](https://github.com/Gomah/bulmil): UI library based on Web Components, made with [Bulma](https://bulma.io) & stencil.
 
 ### Individual Components
-- [Star Rating] (https://github.com/logisticinfotech/rating-component) - An amazing and flexible star rating component with lots of options.
+- [Rating Component](https://github.com/logisticinfotech/rating-component) - An amazing and flexible star rating component with lots of options. There is a blog post how to create such a component too. [https://www.logisticinfotech.com/blog/custom-rating-component/](https://www.logisticinfotech.com/blog/custom-rating-component/)
 - [Image Comparison Slider](https://github.com/sneas/img-comparison-slider) - Slider component to compare images before and after
 - [Trombone Component](https://github.com/StefanNieuwenhuis/wc-trombone) - An amazing Trombone Component that makes music when you resize the window. It's A showcase on how StencilJs and the Web Audio API can collaborate to create awesome things. 
-- [Rating Component](https://github.com/logisticinfotech/rating-component) An amazing svg based rating component. There is a blog post how to create such a component too. [https://www.logisticinfotech.com/blog/custom-rating-component/](https://www.logisticinfotech.com/blog/custom-rating-component/)
 - [Fast Morph](https://github.com/matteobortolazzo/fast-morph) An awesome morhping UI web component to help you animate your elements from one UI state to another using Light DOM.
 - [Web Photo Filter](https://github.com/fluster/web-photo-filter) An amazing high performance Photo filter web component made using StencilJS.
 - [Lazy Iframe](https://github.com/jgw96/lazy-iframe): A iframe based web component which lazy load iframes as the user scrolls over them.
