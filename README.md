@@ -50,6 +50,7 @@ We are dividing the list into 3 categories for better readibility. Also the most
 - [Assister Chat](https://github.com/assister-ai/assister/tree/master/packages/chat) Web Components resembling WhatsApp and Telegram for creating chatbot and live chat applications
 - [stencil-react](https://github.com/petermikitsh/stencil-react): Generate React bindings for Stencil 1.x component libraries
 - [Bulmil](https://github.com/Gomah/bulmil): UI library based on Web Components, made with [Bulma](https://bulma.io) & stencil.
+- [Aleph](https://github.com/aleph-viewer/aleph): Aleph is a 3D object viewer and annotation/measurement tool built with A-Frame, AMI, StencilJS, and Ionic
 
 ### Individual Components
 - [Rating Component](https://github.com/logisticinfotech/rating-component) - An amazing and flexible star rating component with lots of options. There is a blog post how to create such a component too. [https://www.logisticinfotech.com/blog/custom-rating-component/](https://www.logisticinfotech.com/blog/custom-rating-component/)
