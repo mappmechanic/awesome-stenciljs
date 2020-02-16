@@ -78,7 +78,7 @@ We are dividing the list into 3 categories for better readibility. Also the most
 - [Cryptocurrency Data](https://github.com/OnnoGeorg/cryptocurrency-data): Web Component to display list of prices of popular Crypto Currencies
 - [SplitMe](https://github.com/alesgenova/split-me):  Universal web component to create resizable split layouts
 - [Simple Buttons](https://github.com/michaelauderer/simple-buttons): Beautiful interactive buttons inspired by Material Design
-- [Stencil Fragment](https://github.com/michaelauderer/stencil-fragment): Allows the use of <Fragment> to render multiple elements without the need of a wrapping div or returning an array.
+- [Stencil Fragment](https://github.com/michaelauderer/stencil-fragment): Allows the use of `<Fragment>` to render multiple elements without the need of a wrapping div or returning an array.
 - [o-demo-bar](https://github.com/o-rango/orango-demo-tools): Development toolbox for web components made with stencil [demo](https://o-rango.github.io/orango-demo-tools/)
 - [ST-Voice2Text](https://github.com/Fdom92/stencil-voice2text): Web Component which allows you to use the Web Speech API in browsers where it is supported. 
 - [STX-ABTest](https://www.npmjs.com/package/stx-abtest): A Web Component to help you implement A/B Test for your web app
