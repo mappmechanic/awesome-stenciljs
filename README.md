@@ -89,7 +89,7 @@ We are dividing the list into 3 categories for better readibility. Also the most
 - [always-avatar](https://github.com/org-redtea/always-avatar): Generate nice replacement for avatar by username or email or whatever
 - [Katex Expression](https://github.com/navsgh/katex-expression): A web component to render KaTeX expressions.
 - [web-complete](https://github.com/stefanhuber/web-complete): A lightweight, dependency-free, styleable autocomplete web component 
-- [word-spectrum](https://github.com/karthikrp/WordSpectrum): A tiny Web Component library built with Stencil to generate beautiful and colorful text placeholders
+- [word-spectrum](https://github.com/blended-ideas/WordSpectrum): A tiny Web Component library built with Stencil to generate beautiful and colorful text placeholders
 
 
 ## Awesome Web/Mobile Apps built Using StencilJS
