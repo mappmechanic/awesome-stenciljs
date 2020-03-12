@@ -90,6 +90,7 @@ We are dividing the list into 3 categories for better readibility. Also the most
 - [Katex Expression](https://github.com/navsgh/katex-expression): A web component to render KaTeX expressions.
 - [web-complete](https://github.com/stefanhuber/web-complete): A lightweight, dependency-free, styleable autocomplete web component 
 - [word-spectrum](https://github.com/blended-ideas/WordSpectrum): A tiny Web Component library built with Stencil to generate beautiful and colorful text placeholders
+- [Mastodon Share Button](https://github.com/codesyntax/mastodon-share-button): A user friendly web component to share in mastodon.
 
 
 ## Awesome Web/Mobile Apps built Using StencilJS
