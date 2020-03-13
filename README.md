@@ -41,6 +41,7 @@ We are dividing the list into 3 categories for better readibility. Also the most
 - [Telements](https://github.com/telekom/telements) - The Telements library offers a set of customizable UI components written with Stencil.js & TypeScript. 
 
 ### Component Libraries
+- [Calcite App Components](https://github.com/Esri/calcite-app-components) - A collection of calcite components for building single page applications of certain types.
 - [Fitness Dashboard Components](https://github.com/sean-perkins/fitness-dashboard-prototype) - Fitness Dashboard Components built using StencilJS
 - [D3-Stencil](https://d3-stencil.dev/) - Library of web components over popular D3 graph library
 - [Material Web Components](https://material-webcomponents.com/demos?type=Button): UI Components built using Material Design principles and StencilJS (https://github.com/san2beerelli/material-webcomponents)
