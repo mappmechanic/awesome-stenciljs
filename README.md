@@ -53,6 +53,7 @@ We are dividing the list into 3 categories for better readibility. Also the most
 - [Aleph](https://github.com/aleph-viewer/aleph): Aleph is a 3D object viewer and annotation/measurement tool built with A-Frame, AMI, StencilJS, and Ionic
 
 ### Individual Components
+- [Elsa Workflow Designer](https://github.com/elsa-workflows/elsa-designer) - An amazing component to design a Workflow visually and then export it.
 - [Rating Component](https://github.com/logisticinfotech/rating-component) - An amazing and flexible star rating component with lots of options. There is a blog post how to create such a component too. [https://www.logisticinfotech.com/blog/custom-rating-component/](https://www.logisticinfotech.com/blog/custom-rating-component/)
 - [Image Comparison Slider](https://github.com/sneas/img-comparison-slider) - Slider component to compare images before and after
 - [Trombone Component](https://github.com/StefanNieuwenhuis/wc-trombone) - An amazing Trombone Component that makes music when you resize the window. It's A showcase on how StencilJs and the Web Audio API can collaborate to create awesome things. 
