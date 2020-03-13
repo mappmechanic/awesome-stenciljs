@@ -38,6 +38,7 @@ We are dividing the list into 3 categories for better readibility. Also the most
 
 ### Design Systems 
 - [Duet Design System](https://www.duetds.com/using-components/) - A complete Stencil Based Design System component library which can be used with any SPA Framework like Angular/React etc.
+- [Telements](https://github.com/telekom/telements) - The Telements library offers a set of customizable UI components written with Stencil.js & TypeScript. 
 
 ### Component Libraries
 - [Fitness Dashboard Components](https://github.com/sean-perkins/fitness-dashboard-prototype) - Fitness Dashboard Components built using StencilJS
