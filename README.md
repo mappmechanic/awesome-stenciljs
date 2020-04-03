@@ -95,7 +95,7 @@ We are dividing the list into 3 categories for better readibility. Also the most
 - [web-complete](https://github.com/stefanhuber/web-complete): A lightweight, dependency-free, styleable autocomplete web component 
 - [word-spectrum](https://github.com/blended-ideas/WordSpectrum): A tiny Web Component library built with Stencil to generate beautiful and colorful text placeholders
 - [Mastodon Share Button](https://github.com/codesyntax/mastodon-share-button): A user friendly web component to share in mastodon.
-
+- [Remote Table](https://github.com/aqidd/remote-table): A web component table that load JSON Array data from any URL, adding search and pagination function 
 
 ## Awesome Web/Mobile Apps built Using StencilJS
 - [DeckDeck Go](https://deckdeckgo.com) - An awesome online Presentation maker with a mobile remote control and everything implemented using StencilJS and awesome node based APIs. Source - https://github.com/deckgo/deckdeckgo/tree/master/webcomponents
