@@ -140,7 +140,8 @@ Please feel free to add any component to this list by raising a PR.
 
 ## List of Awesome Websites Built using StencilJS
 - [CodeCraft Smile To Unlock Video](https://codecraft.tv/courses/angular/es6-typescript/decorators/): Asim has developed this awesome [Web Component](https://github.com/jawache/smile-to-unlock) used in the videos of his course which allows users to view video only if they Smile :).
-- [Venue Genie](https://venuegenie.com): Venue Genie is the Airbnb for venues. The entire app is built with StencilJS and ReduxJS for state management. 
+- [Venue Genie](https://venuegenie.com): Venue Genie is the Airbnb for venues. The entire app is built with StencilJS and ReduxJS for state management.
+- [Stencil with Admob (via Capacitor)](https://admob-capacitor.com/capacitor-first-steps): Very good documentation to use Admob in StencilJS, by integrating with Capacitor or Cordova. Supports mobile and web apps development. The docs webpage is built with StencilJS from markdown sources, similarly to capacitor website.
 
 ## Curated By (Contributors)
 ### [mAppmechanic](https://twitter.com/mappmechanic): 
