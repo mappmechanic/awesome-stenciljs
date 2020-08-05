@@ -97,6 +97,7 @@ We are dividing the list into 3 categories for better readibility. Also the most
 - [Mastodon Share Button](https://github.com/codesyntax/mastodon-share-button): A user friendly web component to share in mastodon.
 - [Remote Table](https://github.com/aqidd/remote-table): A web component table that load JSON Array data from any URL, adding search and pagination function
 - [Spotify Login](https://github.com/andrelmlins/spotify-login): A web component for Spotify Login
+- [fa-icon](https://github.com/adamlacombe/fa-icon): A web component for Font Awesome 5
 
 ## Awesome Web/Mobile Apps built Using StencilJS
 - [DeckDeck Go](https://deckdeckgo.com) - An awesome online Presentation maker with a mobile remote control and everything implemented using StencilJS and awesome node based APIs. Source - https://github.com/deckgo/deckdeckgo/tree/master/webcomponents
