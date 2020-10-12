@@ -41,6 +41,7 @@ We are dividing the list into 3 categories for better readibility. Also the most
 - [Telements](https://github.com/telekom/telements) - The Telements library offers a set of customizable UI components written with Stencil.js & TypeScript. 
 
 ### Component Libraries
+- [RevoGrid](https://github.com/revolist/revogrid) - Powerful data grid library built with StencilJS for reactive excel like data representation. Millons of cells support and design themes included.
 - [Calcite App Components](https://github.com/Esri/calcite-app-components) - A collection of calcite components for building single page applications of certain types.
 - [Fitness Dashboard Components](https://github.com/sean-perkins/fitness-dashboard-prototype) - Fitness Dashboard Components built using StencilJS
 - [D3-Stencil](https://d3-stencil.dev/) - Library of web components over popular D3 graph library
@@ -54,7 +55,6 @@ We are dividing the list into 3 categories for better readibility. Also the most
 - [Bulmil](https://github.com/Gomah/bulmil): UI library based on Web Components, made with [Bulma](https://bulma.io) & stencil.
 - [Aleph](https://github.com/aleph-viewer/aleph): Aleph is a 3D object viewer and annotation/measurement tool built with A-Frame, AMI, StencilJS, and Ionic
 - [Shoelace](https://shoelace.style): A forward-thinking library of web components
-- [RevoGrid](https://github.com/revolist/revogrid) - Powerful data grid library built with StencilJS for reactive excel like data representation. Millons of cells support and design themes included.
 
 ### Individual Components
 - [Web Social Share](https://github.com/peterpeterparker/web-social-share) - An amazing component to initiate sharing of a Web Page/URL at multiple Social Media Networks
