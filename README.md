@@ -10,6 +10,8 @@ Announcement Blog Post - [https://ionicframework.com/blog/introducing-stencil-on
   - [Component Libraries](https://github.com/mappmechanic/awesome-stenciljs#component-libraries)
   - [Individual Components](https://github.com/mappmechanic/awesome-stenciljs#individual-components)
 
+[State Management](#state-management)
+
 [Boilerplates](#boilerplates-and-templates)
 
 [Tools](#tools)
@@ -55,6 +57,13 @@ We are dividing the list into 3 categories for better readibility. Also the most
 - [Bulmil](https://github.com/Gomah/bulmil): UI library based on Web Components, made with [Bulma](https://bulma.io) & stencil.
 - [Aleph](https://github.com/aleph-viewer/aleph): Aleph is a 3D object viewer and annotation/measurement tool built with A-Frame, AMI, StencilJS, and Ionic
 - [Shoelace](https://shoelace.style): A forward-thinking library of web components
+
+
+### State Management
+ - [Stencil Hooks](https://github.com/saasquatch/stencil-hooks) - A React-hooks API for stencil components
+ - [Stencil Store](https://github.com/ionic-team/stencil-store) - Store is a lightweight shared state library by the StencilJS core team.
+ - [Stencil Redux](https://github.com/ionic-team/stencil-redux) - A simple redux connector for Stencil-built web components inspired by react-redux.
+ 
 
 ### Individual Components
 - [Web Social Share](https://github.com/peterpeterparker/web-social-share) - An amazing component to initiate sharing of a Web Page/URL at multiple Social Media Networks
