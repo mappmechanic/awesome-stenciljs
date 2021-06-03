@@ -57,6 +57,7 @@ We are dividing the list into 3 categories for better readibility. Also the most
 - [Bulmil](https://github.com/Gomah/bulmil): UI library based on Web Components, made with [Bulma](https://bulma.io) & stencil.
 - [Aleph](https://github.com/aleph-viewer/aleph): Aleph is a 3D object viewer and annotation/measurement tool built with A-Frame, AMI, StencilJS, and Ionic
 - [Shoelace](https://shoelace.style): A forward-thinking library of web components
+- [wc-discord-message](https://github.com/Danktuary/wc-discord-message): Web components to easily build and display fake Discord messages on your webpages.
 
 
 ### State Management
