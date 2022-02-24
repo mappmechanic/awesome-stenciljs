@@ -58,7 +58,7 @@ We are dividing the list into 3 categories for better readibility. Also the most
 - [Aleph](https://github.com/aleph-viewer/aleph): Aleph is a 3D object viewer and annotation/measurement tool built with A-Frame, AMI, StencilJS, and Ionic
 - [wc-discord-message](https://github.com/Danktuary/wc-discord-message): Web components to easily build and display fake Discord messages on your webpages.
 - [NENT](https://nent.dev): Functional components to express application features (routing, markdown, data-binding, and declarative actions) without any scripting or a build process (https://github.com/nent/nent)
-- [P4RM](https://ui.p4rm.com): UI library based on Web Components, made with StencilJS. Also includes components like Scrollable table, code editor etc.
+- [GOAT UI](https://goatui.com/): UI library based on Web Components, made with StencilJS. Also includes components like Scrollable table, code editor etc.
 
 ### State Management
  - [Stencil Hooks](https://github.com/saasquatch/stencil-hooks) - A React-hooks API for stencil components
