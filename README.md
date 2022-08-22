@@ -46,7 +46,7 @@ We are dividing the list into 3 categories for better readibility. Also the most
 - [RevoGrid](https://github.com/revolist/revogrid) - Powerful data grid library built with StencilJS for reactive excel like data representation. Millons of cells support and design themes included.
 - [Calcite App Components](https://github.com/Esri/calcite-app-components) - A collection of calcite components for building single page applications of certain types.
 - [Fitness Dashboard Components](https://github.com/sean-perkins/fitness-dashboard-prototype) - Fitness Dashboard Components built using StencilJS
-- [D3-Stencil](https://d3-stencil.dev/) - Library of web components over popular D3 graph library
+- [D3-Stencil](https://github.com/edbrsk/d3-stencil) - An _archived_ library of web components over popular D3 graph library
 - [Material Web Components](https://material-webcomponents.com/demos?type=Button): UI Components built using Material Design principles and StencilJS (https://github.com/san2beerelli/material-webcomponents)
 - [Stencil Components](https://github.com/CodeDimension/stencil-components): Web UI components built on top of StencilJS
 - [Stencil Components](https://github.com/codextde/stencil-components): Minor Reusable components like Buttons etc.
