@@ -59,6 +59,10 @@ We are dividing the list into 3 categories for better readibility. Also the most
 - [wc-discord-message](https://github.com/Danktuary/wc-discord-message): Web components to easily build and display fake Discord messages on your webpages.
 - [NENT](https://nent.dev): Functional components to express application features (routing, markdown, data-binding, and declarative actions) without any scripting or a build process (https://github.com/nent/nent)
 - [GOAT UI](https://goatui.com/): UI library based on Web Components, made with StencilJS. Also includes components like Scrollable table, code editor etc.
+- [Kickstand UI](https://kickstand-ui.com/): The Design System You Can Use Everywhere!
+- [Crayons](https://crayons.freshworks.com/introduction): Design system created by Freshworks that powers all of their products
+- [Liquid Oxygen](https://emdgroup-liquid.github.io/liquid/): Component library based on the Liquid Design System, focusing on accessibility and interoperability.
+
 
 ### State Management
  - [Stencil Hooks](https://github.com/saasquatch/stencil-hooks) - A React-hooks API for stencil components
