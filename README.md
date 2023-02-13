@@ -62,6 +62,7 @@ We are dividing the list into 3 categories for better readibility. Also the most
 - [Kickstand UI](https://kickstand-ui.com/): The Design System You Can Use Everywhere!
 - [Crayons](https://crayons.freshworks.com/introduction): Design system created by Freshworks that powers all of their products
 - [Liquid Oxygen](https://emdgroup-liquid.github.io/liquid/): Component library based on the Liquid Design System, focusing on accessibility and interoperability.
+- [Lime Elements](https://github.com/Lundalogik/lime-elements): Component library created by Lime Technologies
 
 
 ### State Management
