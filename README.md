@@ -129,6 +129,7 @@ We are dividing the list into 3 categories for better readibility. Also the most
 - [Stencil Web Component Starter](https://github.com/khaledosman/stencil-web-components-demo) - A nice web components started which also tells how documentation is auto generated too.
 
 ## Tools (CLIs, scripts, etc.)
+- [Kompendium](https://docs.kompendium.dev/): Documentation generator for Stencil components
 
 ### Ionic official
 - [Create Stencil](https://github.com/ionic-team/create-stencil): A simple but effective npm script to start off a StencilJS project. Useful for complete apps, not just components. Uses the above starter packs [Boilerplates](#boilerplates-and-templates)
