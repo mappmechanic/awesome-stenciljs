@@ -1,8 +1,8 @@
-Finally Good News - Stencil v1 has been released
+Finally Good News - Stencil v3 has been released
 
-<img src="https://ionicframework.com/blog/wp-content/uploads/2019/06/stencil-one-feature.png" width="250" />
+<img src="https://ionic.io/blog/wp-content/uploads/2023/01/stencil3-feature-image.png" width="350" />
 
-Announcement Blog Post - [https://ionicframework.com/blog/introducing-stencil-one-1-0-0/](https://ionicframework.com/blog/introducing-stencil-one-1-0-0/)
+Announcement Blog Post - https://ionic.io/blog/announcing-stencil-3
 
 # Awesome StencilJS
 
