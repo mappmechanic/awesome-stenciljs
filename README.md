@@ -6,22 +6,28 @@ Announcement Blog Post - https://ionic.io/blog/announcing-stencil-3
 
 # Awesome StencilJS
 
-Keeping pace with the modern Stencil ecosystem can be tricky, so this curated list highlights the most relevant projects, tools, and learning resources that are actively shaping today’s Web Components landscape.
+> Carefully curated resources for building modern Web Component experiences with [Stencil](https://stenciljs.com/).
 
-## Table of Contents
+Keeping track of the Stencil community can be tricky as new design systems, tooling, and learning materials land each year. This guide surfaces the resources that continue to see active maintenance or adoption so you can ramp up quickly without sifting through outdated links.
+
+## Contents
 - [What is StencilJS?](#what-is-stenciljs)
 - [Why Web Components?](#what-are-web-components)
+- [Core Resources](#core-resources)
 - [Ecosystem Highlights](#ecosystem-highlights)
-  - [Design Systems & Component Libraries](#design-systems--component-libraries)
-  - [Individual Components](#individual-components)
+  - [Production Design Systems](#production-design-systems)
+  - [Component Libraries & Widgets](#component-libraries--widgets)
+  - [Data & Visualization](#data--visualization)
+  - [Utilities & Integrations](#utilities--integrations)
   - [State Management](#state-management)
 - [Production-Ready Apps & Sites](#production-ready-apps--sites)
 - [Starter Kits & Templates](#starter-kits--templates)
-- [Developer Tooling](#developer-tooling)
+- [Tooling & Automation](#tooling--automation)
 - [Editor & IDE Extensions](#editor--ide-extensions)
 - [Learning Resources](#learning-resources)
   - [Articles & Deep Dives](#articles--deep-dives)
   - [Talks & Videos](#talks--videos)
+- [Community & Support](#community--support)
 - [Miscellaneous Resources](#miscellaneous-resources)
 - [Curated By (Contributors)](#curated-by-contributors)
 
@@ -34,55 +40,67 @@ StencilJS is the new compiler to build standards compliant Web Components using 
 
 Web Components is a combination of multiple HTML & JS Specs like Custom Elements & Shadow DOM which enable us to create highly standardised reusable components which can work similarly accross any framework like React, Angular, Ember, Vue or Vanilla JS.
 
+## Core Resources
+
+- [Stencil Documentation](https://stenciljs.com/docs/introduction) – Official docs, release notes, and examples straight from the Ionic team.
+- [Stencil Roadmap & RFCs](https://github.com/ionic-team/stencil/issues) – Track active proposals, bug bashes, and upcoming platform work.
+- [Stencil GitHub Repository](https://github.com/ionic-team/stencil) – Source for the compiler, runtime, and contribution guide.
+- [Stencil Resources Showcase](https://stenciljs.com/resources) – Gallery of community-driven libraries, tools, and starters featured by Ionic.
+
 ## Ecosystem Highlights
 
-### Design Systems & Component Libraries
-- [Duet Design System](https://www.duetds.com/using-components/) – Full-featured component library consumable from any SPA framework.
-- [Telements](https://github.com/telekom/telements) – Deutsche Telekom’s customizable UI components written with Stencil.
-- [Ionic Framework Components](https://ionicframework.com/docs/components) – Ionic’s widely adopted cross-platform component set, generated with Stencil.
-- [RevoGrid](https://github.com/revolist/revogrid) – High-performance data grid supporting millions of rows and theming.
-- [Calcite Design System](https://developers.arcgis.com/calcite-design-system/components/) – Esri’s production-ready component suite for ArcGIS experiences.
-- [Crayons](https://crayons.freshworks.com/introduction) – Freshworks’ design system powering their product suite.
+### Production Design Systems
+- [Calcite Design System](https://developers.arcgis.com/calcite-design-system/components/) – Esri’s production-ready suite powering ArcGIS experiences.
+- [Crayons](https://crayons.freshworks.com/introduction) – Freshworks’ design system for customer support and CRM surfaces.
+- [Duet Design System](https://www.duetds.com/using-components/) – Full-featured, framework-agnostic components used across the Duet ecosystem.
+- [Ionic Framework Components](https://ionicframework.com/docs/components) – Cross-platform UI building blocks generated with Stencil.
 - [Liquid Oxygen](https://emdgroup-liquid.github.io/liquid/) – Accessible, interoperable components based on the Liquid Design System.
-- [GOAT UI](https://goatui.com/) – Feature-rich UI kit including code editors, tables, and more.
-- [Kickstand UI](https://kickstand-ui.com/) – Framework-agnostic design system ready for enterprise apps.
-- [AnywhereUI](https://github.com/adaleks/anywhere-ui) – Rich Stencil components with official bindings for modern frameworks.
-- [Bulmil](https://github.com/Gomah/bulmil) – Bulma-inspired UI components packaged as Web Components.
-- [NENT](https://nent.dev) – Declarative building blocks for routing, markdown, and data-binding without extra tooling.
-- [BlazeUI Atoms](https://www.blazeui.com/) – CSS framework accompanied by Stencil-powered atoms.
-- [Stencil Styled Components](https://github.com/michaelauderer/stencil-styled-components) – Bring `styled-components` ergonomics to Stencil projects.
-- [Assister Chat](https://github.com/assister-ai/assister/tree/master/packages/chat) – Chat-inspired components for conversational experiences.
-- [Material Web Components](https://github.com/san2beerelli/material-webcomponents) – Material Design-inspired Stencil UI elements.
+- [Modus Web Components](https://modus-web-components.trimble.com/) – Trimble’s enterprise component set with accessibility baked in.
+- [Telements](https://github.com/telekom/telements) – Deutsche Telekom’s customizable UI components written with Stencil.
 
-### Individual Components
-- [Web Social Share](https://github.com/peterpeterparker/web-social-share) – Share URLs across multiple social networks.
-- [Elsa Workflow Designer](https://github.com/elsa-workflows/elsa-designer) – Visual workflow editor with export support.
-- [Image Comparison Slider](https://github.com/sneas/img-comparison-slider) – Before/after comparison slider.
+### Component Libraries & Widgets
+- [AnywhereUI](https://github.com/adaleks/anywhere-ui) – Rich component set with official bindings for Angular, React, and Vue.
+- [Assister Chat](https://github.com/assister-ai/assister/tree/master/packages/chat) – Chat-inspired primitives for conversational products.
+- [BlazeUI Atoms](https://www.blazeui.com/) – Lightweight CSS framework accompanied by composable Stencil atoms.
+- [Bulmil](https://github.com/Gomah/bulmil) – Bulma-inspired component wrappers as Web Components.
+- [GOAT UI](https://goatui.com/) – Feature-rich UI kit including editors, tables, and advanced layout primitives.
+- [Kickstand UI](https://kickstand-ui.com/) – Framework-agnostic design system ready for enterprise apps.
+- [Material Web Components](https://github.com/san2beerelli/material-webcomponents) – Material Design-inspired Stencil UI elements.
+- [NENT](https://nent.dev) – Declarative building blocks for routing, markdown, and data binding with minimal setup.
+- [RevoGrid](https://github.com/revolist/revogrid) – High-performance data grid supporting millions of rows and theming.
+- [Stencil Styled Components](https://github.com/michaelauderer/stencil-styled-components) – Bring `styled-components` ergonomics to Stencil projects.
+
+### Data & Visualization
+- [Animatable](https://proyecto26.github.io/animatable-component) – Declaratively animate any element using the Web Animations API.
 - [Fast Morph](https://github.com/matteobortolazzo/fast-morph) – Light DOM morphing animations for delightful transitions.
-- [Web Photo Filter](https://github.com/fluster/web-photo-filter) – GPU-accelerated photo filtering UI.
+- [Image Comparison Slider](https://github.com/sneas/img-comparison-slider) – Before/after comparison slider with touch support.
+- [IonPhaser](https://github.com/proyecto26/ion-phaser) – Integrate Phaser games with modern frameworks via Web Components.
+- [Remote Table](https://github.com/aqidd/remote-table) – Data table with remote JSON support, search, and pagination.
+- [Video Player](https://github.com/CookieCookson/stencil-video-player) – Interactive video player component.
+- [Web Audio Components](https://github.com/splitinfinities/web-audio-wc) – Compose Web Audio graphs declaratively.
+- [Katex Expression](https://github.com/navsgh/katex-expression) – Render KaTeX math expressions.
+
+### Utilities & Integrations
+- [Bruit.io](https://github.com/Moventes/bruit.io) – Collect user feedback with annotated screenshots.
+- [Elsa Workflow Designer](https://github.com/elsa-workflows/elsa-designer) – Visual workflow editor with export support.
 - [Lazy Iframe](https://github.com/jgw96/lazy-iframe) – Lazy-load iframes as they enter the viewport.
 - [Loading Spinner](https://github.com/seanwuapps/stencil-loading-spinner) – Configurable loader components from a single source.
-- [ST-Flippy](https://github.com/zwacky/st-flippy) – Add flip animations to arbitrary markup.
-- [ST-Signature](https://github.com/gilf/st-signature) – Capture and export handwritten signatures.
-- [Web Audio Components](https://github.com/splitinfinities/web-audio-wc) – Compose Web Audio graphs declaratively.
-- [Bruit.io](https://github.com/Moventes/bruit.io) – Collect user feedback with annotated screenshots.
-- [ST Image](https://github.com/jgw96/st-img) – Lazy-load images and background assets.
-- [ST Muse](https://github.com/gilf/st-muse) – Connect to Muse headsets with Stencil.
-- [ST Fetch](https://github.com/Fdom92/stencil-fetch) – Fetch API wrapper for declarative data loading.
-- [Video Player](https://github.com/CookieCookson/stencil-video-player) – Interactive video player component.
-- [Remote Table](https://github.com/aqidd/remote-table) – Data table with remote JSON support, search, and pagination.
-- [IonPhaser](https://github.com/proyecto26/ion-phaser) – Integrate Phaser games with modern frameworks via Web Components.
-- [Animatable](https://proyecto26.github.io/animatable-component) – Declaratively animate any element using the Web Animations API.
-- [Katex Expression](https://github.com/navsgh/katex-expression) – Render KaTeX math expressions.
-- [UI Avatar](https://github.com/soapdog/webcomponent-ui-avatar) – Auto-generate avatars with initials fallback.
 - [Mastodon Share Button](https://github.com/codesyntax/mastodon-share-button) – Promote Mastodon sharing with a drop-in button.
 - [Spotify Login](https://github.com/andrelmlins/spotify-login) – OAuth-enabled Spotify authentication component.
-- [fa-icon](https://github.com/adamlacombe/fa-icon) – Font Awesome 5 icons as Stencil components.
+- [ST Fetch](https://github.com/Fdom92/stencil-fetch) – Fetch API wrapper for declarative data loading.
+- [ST Image](https://github.com/jgw96/st-img) – Lazy-load images and background assets.
+- [ST Muse](https://github.com/gilf/st-muse) – Connect to Muse headsets with Stencil.
+- [ST-Flippy](https://github.com/zwacky/st-flippy) – Add flip animations to arbitrary markup.
+- [ST-Signature](https://github.com/gilf/st-signature) – Capture and export handwritten signatures.
+- [UI Avatar](https://github.com/soapdog/webcomponent-ui-avatar) – Auto-generate avatars with initials fallback.
+- [Web Photo Filter](https://github.com/fluster/web-photo-filter) – GPU-accelerated photo filtering UI.
+- [Web Social Share](https://github.com/peterpeterparker/web-social-share) – Share URLs across multiple social networks.
+- [fa-icon](https://github.com/adamlacombe/fa-icon) – Font Awesome 5 icons packaged as Stencil components.
 
 ### State Management
 - [Stencil Hooks](https://github.com/saasquatch/stencil-hooks) – React-style hooks API for Stencil components.
-- [Stencil Store](https://github.com/ionic-team/stencil-store) – Lightweight shared state from the Stencil core team.
 - [Stencil Redux](https://github.com/ionic-team/stencil-redux) – Redux connector inspired by `react-redux`.
+- [Stencil Store](https://github.com/ionic-team/stencil-store) – Lightweight shared state from the Stencil core team.
 
 ## Production-Ready Apps & Sites
 - [DeckDeckGo](https://deckdeckgo.com) – Online presentation platform with companion mobile remote.
@@ -95,13 +113,17 @@ Web Components is a combination of multiple HTML & JS Specs like Custom Elements
 - [Stencil Component Starter](https://github.com/ionic-team/stencil-component-starter) – Minimal starting point for a reusable component library.
 - [Stencil App Starter](https://github.com/ionic-team/stencil-app-starter) – All-purpose Stencil app boilerplate.
 - [Ionic PWA Toolkit](https://github.com/ionic-team/ionic-pwa-toolkit) – Build production PWAs with Ionic + Stencil.
+- [Stencil DS Starter](https://github.com/ionic-team/stencil-ds-starter) – Opinionated setup for design systems with automated output targets.
 
 ### Community Maintained
 - [Stencil Web Component Starter](https://github.com/khaledosman/stencil-web-components-demo) – Opinionated starter including automated documentation.
 
-## Developer Tooling
-- [Kompendium](https://docs.kompendium.dev/) – Generate documentation sites for your components.
+## Tooling & Automation
 - [Create Stencil](https://github.com/ionic-team/create-stencil) – CLI script to bootstrap fresh Stencil projects quickly.
+- [Kompendium](https://docs.kompendium.dev/) – Generate documentation sites for your components.
+- [Stencil Apollo](https://github.com/ardatan/stencil-apollo) – Utilities for wiring Apollo GraphQL clients into Web Components.
+- [Stencil DS Output Targets](https://github.com/ionic-team/stencil-ds-output-targets) – Official output targets for React, Angular, and Vue bindings.
+- [stencil-postcss](https://github.com/ionic-team/stencil-postcss) – PostCSS integration for bundling modern CSS tooling into builds.
 - [stencil-react](https://github.com/petermikitsh/stencil-react) – Generate React bindings for your Stencil libraries.
 
 ## Editor & IDE Extensions
@@ -126,6 +148,12 @@ Web Components is a combination of multiple HTML & JS Specs like Custom Elements
 
 ### Talks & Videos
 - [StencilJS Key Concepts by Max Lynch](https://youtu.be/UfD-k7aHkQE) – Conference talk covering compiler internals and best practices.
+
+## Community & Support
+- [Stencil Discussions](https://github.com/ionic-team/stencil/discussions) – Ask questions and share tips directly with the core team and community maintainers.
+- [Stencil Discord](https://ionic.link/stencil-discord) – Real-time chat channels hosted by Ionic for Stencil developers.
+- [Ionic Forum – Stencil Category](https://forum.ionicframework.com/c/stencil/71) – Threaded support with searchable history and solutions.
+- [Stencil Twitter/X Hashtag](https://twitter.com/hashtag/stenciljs) – Follow announcements and community showcases.
 
 ## Miscellaneous Resources
 - [Stencil Cheatsheet](https://devhints.io/stencil) – Handy reference of core concepts and patterns.
