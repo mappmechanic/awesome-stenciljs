@@ -50,7 +50,6 @@ Web Components is a combination of multiple HTML & JS Specs like Custom Elements
 ## Ecosystem Highlights
 
 ### Production Design Systems
-- [Calcite Design System](https://developers.arcgis.com/calcite-design-system/components/) – Esri’s production-ready suite powering ArcGIS experiences.
 - [Crayons](https://crayons.freshworks.com/introduction) – Freshworks’ design system for customer support and CRM surfaces.
 - [Duet Design System](https://www.duetds.com/using-components/) – Full-featured, framework-agnostic components used across the Duet ecosystem.
 - [Ionic Framework Components](https://ionicframework.com/docs/components) – Cross-platform UI building blocks generated with Stencil.
